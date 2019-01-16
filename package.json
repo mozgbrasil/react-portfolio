@@ -14,9 +14,7 @@
     "client/node_modules",
     "servers/express/node_modules"
   ],
-  "dependencies": {
-    "express": "^4.16.4"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/mozgbrasil/heroku-react-app.git"
