@@ -55,18 +55,18 @@ Em seguida você pode fazer um fork desse repositório e fazer as alterações n
 
 ## Sobre o aplicativo para o Heroku
 
-Esse aplicativo foi desenvolvido pela [MOZG](http://mozg.com.br/) e se encontra disponível no seguinte repositório no github [https://github.com/mozgbrasil/heroku-react-app](https://github.com/mozgbrasil/heroku-react-app), qualquer contribuição é bem vinda.
+Esse aplicativo foi desenvolvido pela [MOZG](http://mozg.com.br/) e se encontra disponível no seguinte repositório no github [https://github.com/mozgbrasil/heroku-react-app](https://github.com/mozgbrasil/react-portfolio), qualquer contribuição é bem vinda.
 
 ## Run Local
 
-cd ~/dados/git/projects/react-portfolio/client
-npm start
+  cd ~/dados/git/projects/react-portfolio/client
+  npm start
 
 ## Error: POST http://localhost:3000/api/login 500 (Internal Server Error)
 
 O servidor não está ativo, o comando a seguir deve iniciar o serviço
 
-cd ~/dados/git/projects/react-portfolio/servers/express
-npm start
+  cd ~/dados/git/projects/react-portfolio/servers/express
+  npm start
 
 :cat2: :cat2:
