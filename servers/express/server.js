@@ -49,9 +49,9 @@ if (!isDev && cluster.isMaster) {
 		.use(bodyParser.json())
 		.use(cors());
 
-	app.get('/', (req, res) => {
+	/*app.get('/', (req, res) => {
 		res.json({ status: 'OK' });
-	});
+	});*/
 
 	app.post('/api/login', (req, res) => {
 		const { username, password } = req.body;
