@@ -1,4 +1,8 @@
 client/node_modules
 client/public
 client/src
-servers
+servers/django
+servers/express/node_modules
+servers/flask
+servers/laravel
+servers/spark

@@ -6,7 +6,8 @@
     "node": "10.x"
   },
   "scripts": {
-    "start": "node servers/express/server"
+    "start": "node servers/express/index",
+    "heroku-postbuild": "cd servers/express/ && npm install && npm install --only=dev --no-shrinkwrap && echo 'Yo_postbuild'"
   },
   "cacheDirectories": [
     "node_modules",
