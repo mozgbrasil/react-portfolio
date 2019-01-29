@@ -7,3 +7,4 @@ servers/express/node_modules
 servers/flask
 servers/laravel
 servers/spark
+.vscode/
