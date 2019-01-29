@@ -60,13 +60,13 @@ Esse aplicativo foi desenvolvido pela [MOZG](http://mozg.com.br/) e se encontra 
 ## Run Local
 
     cd ~/dados/git/projects/react-portfolio/client
-    npm start
+    yarn start
 
 ## Error: POST http://localhost:3000/api/login 500 (Internal Server Error)
 
 O servidor não está ativo, o comando a seguir deve iniciar o serviço
 
     cd ~/dados/git/projects/react-portfolio/servers/express
-    npm start
+    yarn start
 
 :cat2: :cat2:

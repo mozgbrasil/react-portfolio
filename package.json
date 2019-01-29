@@ -14,7 +14,9 @@
     "client/node_modules",
     "servers/express/node_modules"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "eslint": "^5.12.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mozgbrasil/heroku-react-app.git"
