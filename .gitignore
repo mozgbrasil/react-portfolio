@@ -8,3 +8,4 @@ servers/flask
 servers/laravel
 servers/spark
 .vscode/
+client/package-lock.json
