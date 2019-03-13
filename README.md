@@ -62,6 +62,7 @@ Esse aplicativo foi desenvolvido pela [MOZG](http://mozg.com.br/) e se encontra 
     cd ~/dados/git/projects/react-portfolio/client
     npm start
 
+    # sudo npm i -g npm-check-updates && ncu -u && npm i
 	  ncu
 	  npm-check
 
