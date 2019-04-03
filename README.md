@@ -59,7 +59,7 @@ Esse aplicativo foi desenvolvido pela [MOZG](http://mozg.com.br/) e se encontra 
 
 ## Run Local
 
-    cd ~/dados/git/projects/react-portfolio/client
+    cd ~/dados/mozgbrasil/javascript-projects/packages/react-portfolio/client
     npm start
 
     # sudo npm i -g npm-check-updates && ncu -u && npm i

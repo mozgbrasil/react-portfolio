@@ -15,7 +15,7 @@
     "servers/express/node_modules"
   ],
   "dependencies": {
-    "eslint": "^5.12.1"
+    "eslint": "^5.15.2"
   },
   "repository": {
     "type": "git",
